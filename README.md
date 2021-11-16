@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Billy Zoellers [@billyzoellers](https://twitter.com/billyzoellers) 👋 
 
-<!--
-**billyzoellers/billyzoellers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am located in the Cincinnati, Ohio. 🇺🇸
 
-Here are some ideas to get you started:
+At work, I like to participate in the [Cisco DevNet community](https://twitter.com/ciscodevnet) and build tools to help automate network infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I enjoy dabbling in home automation technology.
+
+You can find me on:
+
+* [My website](https://billy.zoellers.us/)
+* [Twitter @billyzoellers](https://twitter.com/billyzoellers)
+* [GitHub @billyzoellers](https://github.com/billyzoellers)
+* [LinkedIn](https://linkedin.com/in/billyzoellers)
